@@ -6,9 +6,9 @@ from datetime import datetime
 AUTHOR = 'Alexandra Khoo'
 SITENAME = 'The Data Curious'
 SITEURL = 'https://thedatacurious.github.io'
+#SITEURL = 'http://localhost:8000'
 THEME = './themes/voce'
-USER_LOGO_URL =  'https://raw.githubusercontent.com/thedatacurious/web_source/master/content/images/profile.png'
-
+USER_LOGO_URL = 'https://raw.githubusercontent.com/thedatacurious/thedatacurious.github.io-src/master/content/images/profile.png' 
 PATH = 'content'
 OUTPUT_PATH = '../output'
 STATIC_PATHS = ['images', 'extra/favicon.ico']

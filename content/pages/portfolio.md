@@ -4,7 +4,7 @@ Summary: A selection of my favorite projects
 Slug: portfolio
 
 ### Wedding songs reimagined as cupcakes
-For the 2019 XDS Data Storytelling Challenge, which had the theme of love, I visualized popular wedding songs in R and Inkscape based on their musical attributes. My entry received a commendation for creativity and design. Used Python and applied exploratory data analysis techniques to explore Spotify data.
+For the 2019 XDS Data Storytelling Challenge, which had the theme of love, I visualized popular wedding songs in R and Inkscape based on their musical attributes. [My entry]({filename}/posts/cupcakes_dataviz.md) received a commendation for creativity and design. Used Python and applied exploratory data analysis techniques to explore Spotify data.
 
 ![Snapshot of cupcakes data viz]({static}/images/cupcakes.svg)
 
@@ -23,7 +23,7 @@ web scraping.
 ![Histogram of hip hop music attributes]({static}/images/hiphop_hist.png)
 
 ### Gender-equity paradox
-Used R to investigate and visualized the paradox where women in more gender-equal countries are less likely to be in Science, Technology, Engineering, and Math (STEM). Recreated data viz in Tableau.
+Used R to investigate and [visualized the paradox]({filename}/posts/gender_paradox.md) where women in more gender-equal countries are less likely to be in Science, Technology, Engineering, and Math (STEM). Recreated data viz in Tableau.
 
 ![Data viz on gender-equity paradox]({static}/images/paradox.png)
 
