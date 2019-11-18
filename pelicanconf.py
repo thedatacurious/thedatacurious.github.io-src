@@ -5,8 +5,8 @@ from datetime import datetime
 
 AUTHOR = 'Alexandra Khoo'
 SITENAME = 'The Data Curious'
-#SITEURL = 'https://thedatacurious.github.io'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'https://thedatacurious.github.io'
+#SITEURL = 'http://localhost:8000'
 THEME = './themes/voce'
 USER_LOGO_URL = 'https://raw.githubusercontent.com/thedatacurious/thedatacurious.github.io-src/master/content/images/logo.svg'
 
