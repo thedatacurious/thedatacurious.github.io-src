@@ -3,6 +3,8 @@ Title: About
 Slug: about 
 Summary: Hi there, I'm Alexandra.
 
+![Profile image]({static}/images/profile.png)
+
 I'm a political analyst turned coder who enjoys digging into the data to uncover insights and
 stories.
 

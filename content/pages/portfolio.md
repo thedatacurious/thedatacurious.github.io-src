@@ -6,7 +6,7 @@ Slug: portfolio
 ### Wedding songs reimagined as cupcakes
 For the 2019 XDS Data Storytelling Challenge, which had the theme of love, I visualized popular wedding songs in R and Inkscape based on their musical attributes. [My entry]({filename}/posts/cupcakes_dataviz.md) received a commendation for creativity and design. Used Python and applied exploratory data analysis techniques to explore Spotify data.
 
-![Snapshot of cupcakes data viz]({static}/images/cupcakes.svg)
+![Showcase of data viz]({static}/images/showcase.png)
 
 ### Tools of the trade
 Inspected and preprocessed dataset from the 2019 Data Visualisation Community Survey results, which covers details like job roles and tool use, in Python. Used findings to design an [infographic](https://www.datavisualizationsociety.com/annual-survey-challenge/2019/10/22/challenge-title-aakh3) that helps people interested in data visualisation decide which technical tools to learn or get better at.
@@ -23,7 +23,7 @@ web scraping.
 ![Histogram of hip hop music attributes]({static}/images/hiphop_hist.png)
 
 ### Gender-equity paradox
-Used R to investigate and [visualized the paradox]({filename}/posts/gender_paradox.md) where women in more gender-equal countries are less likely to be in Science, Technology, Engineering, and Math (STEM). Recreated data viz in Tableau.
+Used R to investigate and [visualized the paradox]({filename}/posts/gender_paradox.md) whereby women in more gender-equal countries are less likely to be in Science, Technology, Engineering, and Math (STEM). Recreated data viz in Tableau.
 
 ![Data viz on gender-equity paradox]({static}/images/paradox.png)
 
